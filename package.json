@@ -1,0 +1,20 @@
+{
+  "name": "v1",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "validate": "node validate.js",
+    "strip": "node strip.js",
+    "slugify": "node slugify.js",
+    "show": "node show.js",
+    "banner": "node banner.js",
+    "amp-validator": "amphtml-validator index.html"
+  },
+  "dependencies": {
+    "amphtml-validator": "^1.0.36",
+    "slugify": "^1.6.6",
+    "string-strip-html": "^13.4.8",
+    "word-counting": "^1.1.4"
+  }
+}
