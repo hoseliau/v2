@@ -9,7 +9,7 @@
     "slugify": "node slugify.js",
     "show": "node show.js",
     "banner": "node banner.js",
-    "amp-validator": "amphtml-validator index.html"
+    "amp-validator": "npx amphtml-validator index.html"
   },
   "dependencies": {
     "amphtml-validator": "^1.0.36",

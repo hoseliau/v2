@@ -1,10 +1,10 @@
 import fs from "fs";
 import path from "path";
 
-const dataPath = "./data/data-2.txt";
-const templatePath = "./template/template-lazada.html";
+const dataPath = "./data/data.txt";
+const templatePath = "./template/lazada.html";
 const outputDir = "./output";
-const maxArticles = 20;
+const maxArticles = 50;
 
 if (!fs.existsSync("./output")) {
   fs.mkdirSync("./output");

@@ -1,0 +1,19 @@
+_@_AUTHOR_@_: IDOLA76
+_@_LINK_REGIS_@_: https://walaoe.pro/idola76/
+_@_LINK_LOGIN_@_: https://walaoe.pro/idola76/
+
+_@_BANNER_URL_@_: 
+_@_LOGO_@_: https://thebestnews.b-cdn.net/nice/logo.webp
+_@_FAVICON_@_: https://thebestnews.b-cdn.net/nice/khi.png
+_@_MODIFIED_TIME_@_: 
+
+_@_BANNER_URL_@_: 
+_%_OUTPUT_%_: 
+_@_CANONICAL_@_: 
+
+_@_TITLE_@_: 
+_@_DESCRIPTION_@_: 
+
+###
+
+###
