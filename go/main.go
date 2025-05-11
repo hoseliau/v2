@@ -12,23 +12,23 @@ import (
 // m0y6sotp0p9eHandler, m1u366w05zxjHandler, y2u4xs0rx835Handler, r2vqp0g4gn08Handler, ddn49hxkhpbcHandler
 
 func m0y6sotp0p9eHandler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://tinorei.github.io/news/modal-receh-maxwin-rahasia-pola-gacor-scatter-hitam-mahjong-wins-3-terbongkar.html", 302)
+	http.Redirect(w, r, "##########", 302)
 }
 
 func m1u366w05zxjHandler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://tinorei.github.io/news/bocoran-pola-gacor-scatter-gates-of-olympus-rahasia-maxwin-tiap-malam-untuk-para-penggemar-game.html", 302)
+	http.Redirect(w, r, "##########", 302)
 }
 
 func y2u4xs0rx835Handler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://tinorei.github.io/news/cerita-sukses-bang-nolan-pakai-rtp-live-mahjong-ways-dari-susah-ke-maxwin-instan.html", 302)
+	http.Redirect(w, r, "##########", 302)
 }
 
 func r2vqp0g4gn08Handler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://tinorei.github.io/news/modal-receh-jadi-jutaan-berkat-rtp-live-gates-of-olympus-mencetak-keuntungan-besar-dari-modal-receh.html", 302)
+	http.Redirect(w, r, "##########", 302)
 }
 
 func ddn49hxkhpbcHandler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://tinorei.github.io/news/wd-jutaan-berkat-scatter-hitam-mahjong-wins-3-rahasia-strategi-cuan-menguntungkan.html", 302)
+	http.Redirect(w, r, "##########", 302)
 }
 
 // m0y6sotp0p9eHandler, m1u366w05zxjHandler, y2u4xs0rx835Handler, r2vqp0g4gn08Handler, ddn49hxkhpbcHandler
@@ -63,23 +63,23 @@ func dh7s3ot1fko4Handler(w http.ResponseWriter, r *http.Request) {
 // WALAOE C
 // z7sf5m2u4cssHandler, pr30trezwn1cHandler, h34j9pr2yzgdHandler, xh1b3jakz30wHandler, pospi420fg8jHandler
 func z7sf5m2u4cssHandler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://tinorei.github.io/news/game-pg-soft-keajaiban-di-jam-ini-scatter-hitam-muncul-lebih-sering-dan-cuan-gede-tanpa-batas.html", 302)
+	http.Redirect(w, r, "##########", 302)
 }
 
 func pr30trezwn1cHandler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://tinorei.github.io/news/wajib-dicoba-rahasia-spin-dan-bet-yang-memicu-scatter-hitam-di-game-online-pg-soft.html", 302)
+	http.Redirect(w, r, "##########", 302)
 }
 
 func h34j9pr2yzgdHandler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://tinorei.github.io/news/pg-soft-mahjong-wins-3-lagi-panas-banyak-pemain-cuan-puluhan-juta-berkat-fitur-baru.html", 302)
+	http.Redirect(w, r, "##########", 302)
 }
 
 func xh1b3jakz30wHandler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://tinorei.github.io/news/mahjong-wins-3-mode-baru-yang-hadirkan-scatter-hitam-dalam-setiap-spin-bikin-penasaran-setiap-pemain.html", 302)
+	http.Redirect(w, r, "##########", 302)
 }
 
 func pospi420fg8jHandler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://tinorei.github.io/news/jangan-pernah-lewatkan-kombinasi-ini-scatter-hitam-mahjong-wins-3-paling-sering-muncul-saat-itu.html", 302)
+	http.Redirect(w, r, "##########", 302)
 }
 // z7sf5m2u4cssHandler, pr30trezwn1cHandler, h34j9pr2yzgdHandler, xh1b3jakz30wHandler, pospi420fg8jHandler
 // END: WALAOE C
